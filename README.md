@@ -1,6 +1,6 @@
 # Multi-Agent Code Assistant
 
-**Current status**: This project is an early version of the [code assistant]([url](https://github.com/nrouizem/code-assistant)).
+**Current status**: This project is an early version of the [code assistant](https://github.com/nrouizem/code-assistant).
 
 ### Project Overview
 
