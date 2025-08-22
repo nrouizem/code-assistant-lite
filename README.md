@@ -1,6 +1,6 @@
 # Multi-Agent Code Assistant
 
-**Current status**: This project is under active development. The core multi-agent debate and synthesis loop is functional; the next step is adding sandboxed code capabilities.
+**Current status**: This project is an early version of the [code assistant]([url](https://github.com/nrouizem/code-assistant)).
 
 ### Project Overview
 
